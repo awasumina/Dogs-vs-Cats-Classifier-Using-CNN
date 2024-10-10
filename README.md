@@ -60,5 +60,5 @@ The model was tested on new images of cats and dogs to check its performance on 
 - Try deeper architectures like ResNet or transfer learning using pre-trained models like VGG16 or MobileNet.
 
 ## Conclusion
-This CNN model effectively classifies dogs and cats with high accuracy. Overfitting has been reduced with regularization techniques, and the model is generalizable to new images.
+This CNN model effectively classifies dogs and cats with high accuracy. Overfitting has been reduced with regularization techniques, and the model is generalizable to new images.    
 
